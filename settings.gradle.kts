@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "jarvis-ai-assistant"
-includeBuild("app")
+include(":app")
